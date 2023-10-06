@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/scheduleFragment">
+    <fragment
+        android:id="@+id/scheduleFragment"
+        android:name="com.example.isp.Fragments.ScheduleFragment"
+        android:label="Расписание"
+        tools:layout="@layout/fragment_schedule" />
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.isp.MainActivity"
+        android:label="MainActivity" />
+    <fragment
+        android:id="@+id/homeworkFragment"
+        android:name="com.example.isp.Fragments.HomeworkFragment"
+        android:label="Домашка"
+        tools:layout="@layout/fragment_homework" />
+    <fragment
+        android:id="@+id/informationFragment"
+        android:name="com.example.isp.Fragments.InformationFragment"
+        android:label="Информация"
+        tools:layout="@layout/fragment_information" />
+    <fragment
+        android:id="@+id/teachersFragment"
+        android:name="com.example.isp.Fragments.TeachersFragment"
+        android:label="Преподы"
+        tools:layout="@layout/fragment_teachers" />
+</navigation>

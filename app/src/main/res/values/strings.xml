@@ -1,0 +1,50 @@
+<resources>
+    <!-- Преподы:
+1) Элементы высшей математики(Ковалева Е. В.)
+2) Основы алгоритмизации и программирования(Глускер А. И.)
+3) Операционные системы(Озеркова И. А.)
+4) Системное программирование(Кочетков С. С.)
+5) История(Крылов Е. Н.)
+6) Дискретная математика(Козлов В. В.)
+7) Компьютерные сети(Плахутина Л. А.), Архитектура аппаратных средств(Плахутина Л. А.)
+8) Основы проектирования баз данных(Ларионова Е. А.)
+9) Физическая культура(Надаева Н. В.)
+10) Иностранный язык(Чубарова Е. В.) -->
+    <string name="app_name">ISP-204</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="schedule1"><b>01.10.23</b></string>
+    <string name="schedule2"><b>1 - Элементы высшей математики (13-лекция)
+        \n (Ковалева Е. В.)
+        \n
+        \n2 - Основы алгоритмизации и программирования (17-практика)
+        \n (Глускер А. И.)
+        \n
+        \n3 - Операционные системы (13-лекция)
+        \n (Озеркова И. А.)
+        \n
+        \n4 - Системное программирование (18-практика)
+        \n (Кочетков С. С.)
+        \n
+        \n5 -
+        \n
+        \n6 - </b></string>
+
+    <string name="oneTask">Практика 1</string>
+    <string name="twoTask">Практика 2</string>
+    <string name="threeTask">Практика 3</string>
+    <string name="fourTask">Практика 4</string>
+    <string name="fiveTask">Практика 5</string>
+    <string name="sixTask">Практика 6</string>
+    <string name="sevenTask">Практика 7</string>
+    <string name="eightTask">Практика 8</string>
+    <string name="nineTask">Практика 9</string>
+    <string name="tenTask">Практика 10</string>
+    <string name="elevenTask">Практика 11</string>
+
+    <string name="Textbooks1">Основы проектирования баз данных</string>
+    <string name="Textbooks2">Иностранный язык</string>
+    <string name="Practices">Основы алгоритмизации и программирования [1(П1), 2(П3), 4(П4), 5(П5), 6(П6), 7(П14)]</string>
+    <string name="Info">Пароль от компов - 33HjpGfy</string>
+    <string name="Info2">Основы алгоритмизации и программирования (посещаемость и оценки)</string>
+
+</resources>
